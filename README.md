@@ -16,5 +16,6 @@ I'm a passionate **Software Engineer** with a strong focus on web developmentand
 <img src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" alt="Tailwindcss database logo" style="width:50px; height:50px;"/>
 <img width="50" height="50" src="https://logowik.com/content/uploads/images/express-js1720895493.logowik.com.webp" alt="express-js"/>
 <img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="CSharp"/>
+<img width="50" height="50" src="https://techbagfrontend.s3-ap-south-1.amazonaws.com/logos/wQJX4a6NTjNPqGNbc4mTuN.png" alt="Entity Framework Core"/>
 
 </div>
