@@ -3,7 +3,7 @@
 I'm a passionate **Software Engineer** with a strong focus on web developmentand software design. I love to build scalable, efficient, and user-friendly applications. Currently, I’m working with **React**, **Next.js** and  **Node.js**,to create modern web solutions.
 
 ## 🚀 Skills
-<div style="display:flex;gap:20px;">
+<div style="display:flex;gap:20px;align-items:center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJs  logo" style="width:50px; height:50px;" />
   <img src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg" alt="Postgresql database logo" style="width:50px; height:50px;"/>
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql database logo" style="width:50px; height:50px;"/>
@@ -15,5 +15,6 @@ I'm a passionate **Software Engineer** with a strong focus on web developmentand
 <img src="https://www.svgrepo.com/show/354090/mongodb.svg" alt="Mongodb database logo" style="width:50px; height:50px;"/>
 <img src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" alt="Tailwindcss database logo" style="width:50px; height:50px;"/>
 <img width="50" height="50" src="https://logowik.com/content/uploads/images/express-js1720895493.logowik.com.webp" alt="express-js"/>
+<img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="CSharp"/>
 
 </div>
