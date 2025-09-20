@@ -17,5 +17,6 @@ I'm a passionate **Software Engineer** with a strong focus on web developmentand
 <img width="50" height="50" src="https://logowik.com/content/uploads/images/express-js1720895493.logowik.com.webp" alt="express-js"/>
 <img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="CSharp"/>
 <img width="50" height="50" src="https://techbagfrontend.s3-ap-south-1.amazonaws.com/logos/wQJX4a6NTjNPqGNbc4mTuN.png" alt="Entity Framework Core"/>
+<img width="50" height="50" src="https://www.freeiconspng.com/uploads/sql-server-icon-png-8.png" alt="Sql Server"/>
 
 </div>
