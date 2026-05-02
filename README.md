@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Moaazmalek/Moaazmalek/main/Profile.JPG" width="150" style="border-radius:50%;" />
+  <img src="https://raw.githubusercontent.com/Moaazmalek/Moaazmalek/main/Profile-modified.png" width="150" style="border-radius:50%;" />
 </p>
 
 <h1 align="center">Hi, I'm Muath Al-Farwan 👋</h1>
