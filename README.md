@@ -1,22 +1,73 @@
-# Hi there, I'm Moaaz Malek 👋
+# Hi, I'm Muath Al-Farwan 👋
 
-I'm a passionate **Software Engineer** with a strong focus on web developmentand software design. I love to build scalable, efficient, and user-friendly applications. Currently, I’m working with **React**, **Next.js** and  **Node.js**,to create modern web solutions.
+**Software Engineer** focused on building scalable web applications and clean, maintainable systems. I enjoy turning complex problems into elegant, performant solutions — from pixel-perfect frontends to robust backend architectures.
 
-## 🚀 Skills
-<div style="display:flex;gap:20px;align-items:center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJs  logo" style="width:50px; height:50px;" />
-  <img src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg" alt="Postgresql database logo" style="width:50px; height:50px;"/>
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql database logo" style="width:50px; height:50px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React logo" style="width:50px; height:50px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript logo" style="width:50px; height:50px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Typescript logo" style="width:50px; height:50px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML logo" style="width:50px; height:50px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS logo" style="width:50px; height:60px;"/>
-<img src="https://www.svgrepo.com/show/354090/mongodb.svg" alt="Mongodb database logo" style="width:50px; height:50px;"/>
-<img src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" alt="Tailwindcss database logo" style="width:50px; height:50px;"/>
-<img width="50" height="50" src="https://logowik.com/content/uploads/images/express-js1720895493.logowik.com.webp" alt="express-js"/>
-<img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="CSharp"/>
-<img width="50" height="50" src="https://techbagfrontend.s3-ap-south-1.amazonaws.com/logos/wQJX4a6NTjNPqGNbc4mTuN.png" alt="Entity Framework Core"/>
-<img width="50" height="50" src="https://www.freeiconspng.com/uploads/sql-server-icon-png-8.png" alt="Sql Server"/>
+---
 
-</div>
+## About Me
+
+- 🔭 Currently building modern web experiences with **React**, **Next.js**, **Node.js**, and **.NET Core**
+- 🧠 Interested in scalable system design, API architecture, and developer tooling
+- 🛠️ I care deeply about code quality, performance, and great user experience
+- 📫 Open to new opportunities and collaborations
+
+---
+
+## 🧰 Tech Stack
+
+**Frontend & UI**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Web API](https://img.shields.io/badge/ASP.NET_Web_API-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+**Architecture & Design Patterns**
+
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-0d1117?style=for-the-badge&logoColor=white)
+![N-Tier](https://img.shields.io/badge/N--Tier_Architecture-0d1117?style=for-the-badge&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 📊 GitHub Activity
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=Moaazmalek&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+
+---
+
+## 📬 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muath-al-farwan-71295735b/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhalfrwat@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.muathmalek.dev/)
+
+---
+
+<p align="center">
+  <i>Always building. Always learning.</i>
+</p>
