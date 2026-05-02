@@ -1,6 +1,19 @@
-# Hi, I'm Muath Al-Farwan 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Moaazmalek/Moaazmalek/main/Profile.JPG" width="150" style="border-radius:50%;" />
+</p>
 
-**Software Engineer** focused on building scalable web applications and clean, maintainable systems. I enjoy turning complex problems into elegant, performant solutions — from pixel-perfect frontends to robust backend architectures.
+<h1 align="center">Hi, I'm Muath Al-Farwan 👋</h1>
+
+<p align="center">
+  <b>Software Engineer</b> focused on building scalable web applications and clean, maintainable systems.<br/>
+  I enjoy turning complex problems into elegant, performant solutions — from pixel-perfect frontends to robust backend architectures.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/muath-al-farwan-71295735b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:madhalfrwat@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.muathmalek.dev/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
 
 ---
 
@@ -49,7 +62,6 @@
 ![N-Tier](https://img.shields.io/badge/N--Tier_Architecture-0d1117?style=for-the-badge&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
 **Tools & Productivity**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -58,20 +70,23 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
+---
+
 ## 📊 GitHub Activity
 
-<p align="left">
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=Moaazmalek&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 </p>
-
 
 ---
 
 ## 📬 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muath-al-farwan-71295735b/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhalfrwat@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.muathmalek.dev/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/muath-al-farwan-71295735b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:madhalfrwat@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.muathmalek.dev/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
 
 ---
 
